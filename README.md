@@ -1,5 +1,4 @@
 # HelloWorld3
-benim script
 using System;
 using System.Collections.Generic;
 using System.Linq;
